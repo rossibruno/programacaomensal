@@ -1,0 +1,1474 @@
+<!-- Global site tag (gtag.js) - Google Analytics --> <script async src="https://www.googletagmanager.com/gtag/js?id=UA-49772494-3"></script> <script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-49772494-3');
+</script>
+<a name="topo"></a>
+<div class= "filtros">
+
+
+  <div id="div-menu">
+    <h4 class="h4-div" style="text-align: center; margin-bottom: 10px;">Filtro por mês</h4>
+
+    <nav class="menu">
+    <ul>
+        <li><a href="#novembro">NOVEMBRO</a></li>
+        <li><a href="#dezembro">DEZEMBRO</a></li>
+        <li><a href="#janeiro">JANEIRO</a></li>
+        <li><a href="#fevereiro">FEVEREIRO</a></li>
+        <li><a href="#atividades-permanentes">ATIVIDADES PERMANENTES</a></li>
+    </ul>
+    </nav>
+  </div>
+
+  <div class="filtro-divisoes">
+    <h4 class="h4-div" style="text-align: center; margin-bottom: 10px;">Filtro por divisão</h4>
+    <button class="main-btn filter-btn active todas" id="all-btn">TODAS</button>
+    <button class="main-btn filter-btn" id="d1-btn"></button>
+    <button class="main-btn filter-btn" id="d2-btn"></button>
+    <button class="main-btn filter-btn" id="d3-btn"></button>
+    <button class="main-btn filter-btn" id="d4-btn"></button>
+    <button class="main-btn filter-btn" id="d5-btn"></button>
+  </div>
+
+</div>
+
+
+<h4 class="h4-div" style="text-align: center; margin-bottom: 30px;">Quer receber nosso mailing?</h4>
+<p style="text-align: center;"><a class="botao-2" href="https://goo.gl/YmPs58">INCREVER-SE NO MAILING</a></p>
+
+
+<div class="programacao-geral">
+
+<div class="project-box-2 novembro">
+
+<h4 class="nome-mes" style="text-align: center;"><a name="novembro"></a>NOVEMBRO</h4><a class="voltar-ao-topo" href="#topo">Voltar ao topo</a>
+
+  <div class="duas-col">
+
+
+    <div class="item project-box d3">
+      <div class="item-data">
+      <p class="p_data" style="text-align: center;"><a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/meio_ambiente/umapaz/formacao_em_educacao_ambiental/programacao_mensal/index.php?p=319329"><img src="https://www.prefeitura.sp.gov.br/cidade/secretarias/upload/meio_ambiente/umapaz/a-arte-de-cultuvar-a-coragem(1).jpg" alt="" /></a></p>
+      </div>
+      <div class="item-txt">
+      <p class="item-titulo" style="text-align: center;"><strong style=""><a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/meio_ambiente/umapaz/formacao_em_educacao_ambiental/programacao_mensal/index.php?p=319329">Curso: A Arte de Cultivar a Coragem</a></strong></p>
+      <p class="item-titulo" style="text-align: center;"><strong style="font-family: Lato, sans-serif; font-size: 14px;">18/11 a 9/12&nbsp; &nbsp;| 19h</strong></p>
+      <p class="item-paragrafo" style="text-align: center;">A proposta &eacute; inspirar o desenvolvimento pessoal, compartilhar saberes de autocuidado, fortalecer as rela&ccedil;&otilde;es humanas e o cuidado com o meio ambiente, objetivando cultivar...</p>
+      <p class="item-paragrafo" style="text-align: center;"><a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/meio_ambiente/umapaz/formacao_em_educacao_ambiental/programacao_mensal/index.php?p=319329">Saiba mais &gt;</a></p>
+      <p class="icone-divisao"></p>
+      </div>
+    </div>
+
+  </div>
+
+</div>
+
+<div class="project-box-2 dezembro"><hr />
+
+  <h4 class="nome-mes" style="text-align: center;"><a name="dezembro"></a>DEZEMBRO</h4><a class="voltar-ao-topo" href="#topo">Voltar ao topo</a>
+
+  <div class="duas-col">
+
+    <div class="item project-box d5">
+    <div class="item-data">
+    <p class="p_data" style="text-align: center;"><a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/meio_ambiente/umapaz/programacao_mensal/index.php?p=322127"><img src="https://www.prefeitura.sp.gov.br/cidade/secretarias/upload/meio_ambiente/umapaz/Enfeites%20de%20Natal%20com%20Recursos%20naturais.jpg" alt="" /></a></p>
+    </div>
+    <div class="item-txt">
+    <p class="item-titulo" style="text-align: center;"><a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/meio_ambiente/umapaz/programacao_mensal/index.php?p=322127">Exposi&ccedil;&atilde;o Enfeites de Natal com Recursos naturais e Recicl&aacute;veis </a></p>
+    <p class="item-paragrafo" style="text-align: center;"><strong>01 a 31/12&nbsp; | 6h</strong></p>
+    <p class="item-paragrafo" style="text-align: center;">Dezembro &eacute; o m&ecirc;s que a cidade se enfeita para comemorar a chegada do Natal, nessa exposi&ccedil;&atilde;o mostramos possibilidades naturais e sustent&aacute;veis para decorar o ambiente.</p>
+    <p class="item-paragrafo" style="text-align: center;"><a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/meio_ambiente/umapaz/programacao_mensal/index.php?p=322127">Saiba mais &gt;</a></p>
+    <p class="icone-divisao"></p>
+    </div>
+    </div>
+
+
+    <div class="item project-box d1">
+    <div class="item-data">
+    <p class="p_data" style="text-align: center;"><a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/meio_ambiente/umapaz/programacao_mensal/index.php?p=321780"><img src="https://www.prefeitura.sp.gov.br/cidade/secretarias/upload/meio_ambiente/umapaz/Prancheta%209-100.jpg" alt="" /></a></p>
+    </div>
+    <div class="item-txt">
+    <p class="item-titulo" style="text-align: center;"><a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/meio_ambiente/umapaz/programacao_mensal/index.php?p=321780">Mostra UMAPAZ: Projeto Atos 2 </a></p>
+    <p class="item-paragrafo" style="text-align: center;"><strong>&nbsp;6/12 a&nbsp; 28/12&nbsp; | 9h &agrave;s 17h</strong></p>
+    <p class="item-paragrafo" style="text-align: center;">Nessa exposi&ccedil;&atilde;o, Daniel Reis, apresenta parte do seu acervo, com imagens captadas antes da pandemia, trabalhando o contraste entre a luz e sombra e as emo&ccedil;&otilde;es atrav&eacute;s da f&eacute;.</p>
+    <p class="item-paragrafo" style="text-align: center;"><a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/meio_ambiente/umapaz/programacao_mensal/index.php?p=321780">Saiba mais &gt;</a></p>
+    <p class="icone-divisao"></p>
+    </div>
+    </div>
+
+
+    <div class="item project-box d1">
+    <div class="item-data">
+    <p class="p_data" style="text-align: center;"><a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/meio_ambiente/umapaz/programacao_mensal/index.php?p=321887"><img src="https://www.prefeitura.sp.gov.br/cidade/secretarias/upload/meio_ambiente/umapaz/helena.jpg" alt="" /></a></p>
+    </div>
+    <div class="item-txt">
+    <p class="item-titulo" style="text-align: center;"><a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/meio_ambiente/umapaz/programacao_mensal/index.php?p=321887">Mostra UMAPAZ:<br />
+    Quintanares... quando Helena encontra Mario... </a></p>
+    <p class="item-paragrafo" style="text-align: center;"><strong> 6/12 a  28/12  | 9h &agrave;s 17h</strong></p>
+    <p class="item-paragrafo" style="text-align: center;">Nesta exposi&ccedil;&atilde;o a poesia de Mario se entrela&ccedil;a com o olhar de Helena e seus percursos citadinos.</p>
+    <p class="item-paragrafo" style="text-align: center;"><a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/meio_ambiente/umapaz/programacao_mensal/index.php?p=321887">Saiba mais &gt;</a></p>
+    <p class="icone-divisao"></p>
+    </div>
+    </div>
+
+
+    <div class="item project-box d1">
+    <div class="item-data">
+    <p class="p_data" style="text-align: center;"><a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/meio_ambiente/umapaz/escola_municipal_de_jardinagem/programacao_mensal/index.php?p=320389"><img src="https://www.prefeitura.sp.gov.br/cidade/secretarias/upload/meio_ambiente/umapaz/fruta22(1).jpg" alt="" /></a></p>
+    </div>
+    <div class="item-txt">
+    <p class="item-titulo" style="text-align: center;"><a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/meio_ambiente/umapaz/escola_municipal_de_jardinagem/programacao_mensal/index.php?p=320389">Minicurso: Introdu&ccedil;&atilde;o &agrave; Fruticultura </a></p>
+    <p class="item-paragrafo" style="text-align: center;"><strong>&nbsp;10, 13 e 15/12&nbsp; | 10h</strong></p>
+    <p class="item-paragrafo" style="text-align: center;">Neste Minicurso abordaremos os principais aspectos t&eacute;cnicos para o sucesso no cultivo de frut&iacute;feras. Falaremos sobre caracter&iacute;sticas bot&acirc;nicas...</p>
+    <p class="item-paragrafo" style="text-align: center;"><a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/meio_ambiente/umapaz/escola_municipal_de_jardinagem/programacao_mensal/index.php?p=320389">Saiba mais &gt;</a></p>
+    <p class="icone-divisao"></p>
+    </div>
+    </div>
+
+
+  </div>
+
+</div>
+
+<div class="project-box-2 janeiro"><hr />
+
+<h4 class="nome-mes" style="text-align: center;"><a name="janeiro"></a>janeiro</h4><a class="voltar-ao-topo" href="#topo">Voltar ao topo</a>
+  <div class="duas-col">
+    <div class="item project-box d2">
+    <div class="item-data">
+    <p class="p_data" style="text-align: center;"><a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/meio_ambiente/umapaz/planetario_do_carmo/programacao_mensal/index.php?p=321437"><img src="https://www.prefeitura.sp.gov.br/cidade/secretarias/upload/meio_ambiente/umapaz/minecraft.jpg" alt="" /></a></p>
+    </div>
+    <div class="item-txt">
+    <p class="item-titulo" style="text-align: center;"><a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/meio_ambiente/umapaz/planetario_do_carmo/programacao_mensal/index.php?p=321437">Visita Guiada pelo Minecraft</a></p>
+    <p class="item-paragrafo" style="text-align: center;"><strong>2, 9, 16, 23 e 30/01 | 15h</strong></p>
+    <p class="item-paragrafo" style="text-align: center;">A pandemia distanciou o Planet&aacute;rio das pessoas. N&oacute;s sentimos saudades de receb&ecirc;-los e de encant&aacute;-los com o universo. E com toda essa saudade...</p>
+    <p class="item-paragrafo" style="text-align: center;"><a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/meio_ambiente/umapaz/planetario_do_carmo/programacao_mensal/index.php?p=321437">Saiba mais &gt;</a></p>
+    <p class="icone-divisao"></p>
+    </div>
+    </div>
+
+
+<div class="item project-box d1">
+<div class="item-data">
+<p class="p_data" style="text-align: center;"><a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/meio_ambiente/umapaz/escola_municipal_de_jardinagem/programacao_mensal/index.php?p=322519"><img src="https://www.prefeitura.sp.gov.br/cidade/secretarias/upload/meio_ambiente/umapaz/marcosk(1).jpg" alt="" /></a></p>
+</div>
+<div class="item-txt">
+<p class="item-titulo" style="text-align: center;"><a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/meio_ambiente/umapaz/escola_municipal_de_jardinagem/programacao_mensal/index.php?p=322519">Mostra UMAPAZ Celebrando a Urbe... 2022!</a></p>
+<p class="item-paragrafo" style="text-align: center;"><strong>3 a 14/01 | 9h</strong></p>
+<p class="item-paragrafo" style="text-align: center;">Nesta 3&ordf; Edi&ccedil;&atilde;o iremos celebrar os anivers&aacute;rios de S&atilde;o Paulo e da Universidade Aberta do Meio Ambiente e Cultura de Paz - UMAPAZ inspirados...</p>
+<p class="item-paragrafo" style="text-align: center;"><a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/meio_ambiente/umapaz/escola_municipal_de_jardinagem/programacao_mensal/index.php?p=322519">Saiba mais &gt;</a></p>
+<p class="icone-divisao"></p>
+</div>
+</div>
+
+
+<div class="item project-box d1">
+<div class="item-data">
+<p class="p_data" style="text-align: center;"><a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/meio_ambiente/umapaz/escola_municipal_de_jardinagem/programacao_mensal/index.php?p=322521"><img src="https://www.prefeitura.sp.gov.br/cidade/secretarias/upload/meio_ambiente/umapaz/petito(2).jpg" alt="" /></a></p>
+</div>
+<div class="item-txt">
+<p class="item-titulo" style="text-align: center;"><a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/meio_ambiente/umapaz/escola_municipal_de_jardinagem/programacao_mensal/index.php?p=322521">Mostra UMAPAZ Celebrando a Urbe... 2022!</a></p>
+<p class="item-paragrafo" style="text-align: center;"><b>03 a 28/01 | 9h</b></p>
+<p class="item-paragrafo" style="text-align: center;">Nesta 3&ordf; Edi&ccedil;&atilde;o iremos celebrar os anivers&aacute;rios de S&atilde;o Paulo e da Universidade Aberta do Meio Ambiente e Cultura de Paz - UMAPAZ inspirados...</p>
+<p class="item-paragrafo" style="text-align: center;"><a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/meio_ambiente/umapaz/escola_municipal_de_jardinagem/programacao_mensal/index.php?p=322521">Saiba mais &gt;</a></p>
+<p class="icone-divisao"></p>
+</div>
+</div>
+
+
+<div class="item project-box d3">
+<div class="item-data">
+<p class="p_data" style="text-align: center;"><a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/meio_ambiente/umapaz/formacao_em_educacao_ambiental/programacao_mensal/index.php?p=322465"><img src="https://www.prefeitura.sp.gov.br/cidade/secretarias/upload/meio_ambiente/umapaz/aventura_nas_ferias.jpg" alt="" /></a></p>
+</div>
+<div class="item-txt">
+<p class="item-titulo" style="text-align: center;"><a href="http://www.prefeitura.sp.gov.br/cidade/secretarias/meio_ambiente/umapaz/formacao_em_educacao_ambiental/programacao_mensal/index.php?p=322465">Aventura nas F&eacute;rias</a></p>
+<p class="item-paragrafo" style="text-align: center;"><strong>06/01, 13/01, 20/01, 27/01, 03/02, 10/02, 17/02 e 24/02 (quintas-feiras).</strong></p>
+<p class="item-paragrafo" style="text-align: center;">O Viveiro Manequinho Lopes &eacute; um espa&ccedil;o municipal da d&eacute;cada de 20 que, al&eacute;m de realizar um trabalho de conserva&ccedil;&atilde;o de esp&eacute;cies amea&ccedil;adas...</p>
+<p class="item-paragrafo" style="text-align: center;"><a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/meio_ambiente/umapaz/formacao_em_educacao_ambiental/programacao_mensal/index.php?p=322465">Saiba mais &gt;</a></p>
+<p class="icone-divisao"></p>
+</div>
+</div>
+
+
+<div class="item project-box d2">
+<div class="item-data">
+<p class="p_data" style="text-align: center;"><a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/meio_ambiente/umapaz/planetario_do_carmo/programacao_mensal/index.php?p=321444"><img src="https://www.prefeitura.sp.gov.br/cidade/secretarias/upload/meio_ambiente/umapaz/visita-100(1).jpg" alt="" /></a></p>
+</div>
+<div class="item-txt">
+<p class="item-titulo" style="text-align: center;"><a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/meio_ambiente/umapaz/planetario_do_carmo/programacao_mensal/index.php?p=321444">Visita Guiada e Proje&ccedil;&atilde;o do C&eacute;u Estrelado </a></p>
+<p class="item-paragrafo" style="text-align: center;"><strong>7, 8, 14, 15, 21, 22, 25, 28 e 29/01 | 14h</strong></p>
+<p class="item-paragrafo" style="text-align: center;">O Planet&aacute;rio Municipal Prof. Ac&aacute;cio Riberi, localizado no Parque do Carmo, estar&aacute; aberto para visita&ccedil;&atilde;o em janeiro. Venha conhecer a exposi&ccedil;&atilde;o permanente...</p>
+<p class="item-paragrafo" style="text-align: center;"><a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/meio_ambiente/umapaz/planetario_do_carmo/programacao_mensal/index.php?p=321444">Saiba mais &gt;</a></p>
+<p class="icone-divisao"></p>
+</div>
+</div>
+
+
+<div class="item project-box d3">
+<div class="item-data">
+<p class="p_data" style="text-align: center;"><a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/meio_ambiente/umapaz/formacao_em_educacao_ambiental/programacao_mensal/index.php?p=322011"><img src="https://www.prefeitura.sp.gov.br/cidade/secretarias/upload/meio_ambiente/umapaz/Escolha-a-Calma-facebook.jpg" alt="" /></a></p>
+</div>
+<div class="item-txt">
+<p class="item-titulo" style="text-align: center;"><a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/meio_ambiente/umapaz/formacao_em_educacao_ambiental/programacao_mensal/index.php?p=322011"><font color="#0000ee"><u>Workshop: Escolha a calma - Confian&ccedil;a.&nbsp;</u></font><font color="#0000ee"><u>Por voc&ecirc;, pelo outro e pelo mundo.</u></font></a></p>
+<p class="item-paragrafo" style="text-align: center;"><strong>12/01 | 19h</strong></p>
+<p class="item-paragrafo" style="text-align: center;">&ldquo;Escolha a Calma &eacute; uma campanha de utilidade p&uacute;blica que promove a escolha...</p>
+<p class="item-paragrafo" style="text-align: center;"><a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/meio_ambiente/umapaz/formacao_em_educacao_ambiental/programacao_mensal/index.php?p=322011">Saiba mais &gt;</a></p>
+<p class="icone-divisao"></p>
+</div>
+</div>
+
+
+<div class="item project-box d1">
+<div class="item-data">
+<p class="p_data" style="text-align: center;"><a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/meio_ambiente/umapaz/escola_municipal_de_jardinagem/programacao_mensal/index.php?p=322522"><img src="https://www.prefeitura.sp.gov.br/cidade/secretarias/upload/meio_ambiente/umapaz/draw.jpg" alt="" /></a></p>
+</div>
+<div class="item-txt">
+<p class="item-titulo" style="text-align: center;"><font color="#0000ee"><u><a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/meio_ambiente/umapaz/escola_municipal_de_jardinagem/programacao_mensal/index.php?p=322522">Mostra UMAPAZ Celebrando a Urbe... 2022!</a></u></font></p>
+<p class="item-paragrafo" style="text-align: center;"><strong>17 a 21/01 | 9h</strong></p>
+<p class="item-paragrafo" style="text-align: center;">Nesta 3&ordf; Edi&ccedil;&atilde;o iremos celebrar os anivers&aacute;rios de S&atilde;o Paulo e da Universidade Aberta do Meio Ambiente e Cultura de Paz - UMAPAZ inspirados...</p>
+<p class="item-paragrafo" style="text-align: center;"><a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/meio_ambiente/umapaz/escola_municipal_de_jardinagem/programacao_mensal/index.php?p=322522">Saiba mais &gt;</a></p>
+<p class="icone-divisao"></p>
+</div>
+</div>
+
+
+<div class="item project-box d1">
+<div class="item-data">
+<p class="p_data" style="text-align: center;"><a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/meio_ambiente/umapaz/escola_municipal_de_jardinagem/programacao_mensal/index.php?p=321910"><img src="https://www.prefeitura.sp.gov.br/cidade/secretarias/upload/meio_ambiente/umapaz/orquidea-site.jpg" alt="" /></a></p>
+</div>
+<div class="item-txt">
+<p class="item-titulo" style="text-align: center;"><a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/meio_ambiente/umapaz/escola_municipal_de_jardinagem/programacao_mensal/index.php?p=321910">Oficina: &ldquo;T&eacute;cnicas para o plantio de orqu&iacute;deas ep&iacute;fitas&rdquo;</a>&nbsp;</p>
+<p class="item-paragrafo" style="text-align: center;"><strong>Turma 1: 18/01 - 9h &agrave;s 11h30 |&nbsp;</strong><strong>Turma 2: 27/01 - 13h &agrave;s 15h30</strong></p>
+<p class="item-paragrafo" style="text-align: center;">Em comemora&ccedil;&atilde;o ao 16&ordm; Anivers&aacute;rio da UMAPAZ e 468&ordm; Anivers&aacute;rio da Cidade de S&atilde;o Paulo, a Escola Municipal de Jardinagem...</p>
+<p class="item-paragrafo" style="text-align: center;"><a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/meio_ambiente/umapaz/escola_municipal_de_jardinagem/programacao_mensal/index.php?p=321910">Saiba mais &gt;</a></p>
+<p class="icone-divisao"></p>
+</div>
+</div>
+
+
+<div class="item project-box d1">
+<div class="item-data">
+<p class="p_data" style="text-align: center;"><a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/meio_ambiente/umapaz/escola_municipal_de_jardinagem/programacao_mensal/index.php?p=321914"><img src="https://www.prefeitura.sp.gov.br/cidade/secretarias/upload/meio_ambiente/umapaz/horta-site.jpg" alt="" /></a></p>
+</div>
+<div class="item-txt">
+<p class="item-titulo" style="text-align: center;"><a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/meio_ambiente/umapaz/escola_municipal_de_jardinagem/programacao_mensal/index.php?p=321914">Oficina &ldquo;Cultivo em pequenos espa&ccedil;os&rdquo; - Ciclo de Oficinas no Campo Experimental </a></p>
+<p class="item-paragrafo" style="text-align: center;"><strong>Turma 1: 19/01 9h &agrave;s 11h30<br />
+Turma 2: 26/01 13h &agrave;s 15h30</strong></p>
+<p class="item-paragrafo" style="text-align: center;">Em comemora&ccedil;&atilde;o ao 16&ordm; Anivers&aacute;rio da UMAPAZ e 468&ordm; Anivers&aacute;rio da Cidade de S&atilde;o Paulo, a Escola Municipal de Jardinagem...</p>
+<p class="item-paragrafo" style="text-align: center;"><a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/meio_ambiente/umapaz/escola_municipal_de_jardinagem/programacao_mensal/index.php?p=321914">Saiba mais &gt;</a></p>
+<p class="icone-divisao"></p>
+</div>
+</div>
+
+<div class="item project-box d1">
+<div class="item-data">
+<p class="p_data" style="text-align: center;"><a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/meio_ambiente/umapaz/escola_municipal_de_jardinagem/programacao_mensal/index.php?p=321918"><img src="https://www.prefeitura.sp.gov.br/cidade/secretarias/upload/meio_ambiente/umapaz/composteira.jpg" alt="" /></a></p>
+</div>
+<div class="item-txt">
+<p class="item-titulo" style="text-align: center;"><a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/meio_ambiente/umapaz/escola_municipal_de_jardinagem/programacao_mensal/index.php?p=321918">Oficina: &quot;compostagem e minhoc&aacute;rio&quot; - Ciclo de Oficinas no Campo Experimental </a></p>
+<p class="item-paragrafo" style="text-align: center;"><strong>Turma 1: 20/01 - 13h &agrave;s 15h30<br />
+Turma 2: 28/01 - 9h &agrave;s 11h30</strong></p>
+<p class="item-paragrafo" style="text-align: center;">Em comemora&ccedil;&atilde;o ao 16&ordm; Anivers&aacute;rio da UMAPAZ e 468&ordm; Anivers&aacute;rio da Cidade de S&atilde;o Paulo, a Escola Municipal de Jardinagem...</p>
+<p class="item-paragrafo" style="text-align: center;"><a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/meio_ambiente/umapaz/escola_municipal_de_jardinagem/programacao_mensal/index.php?p=321918">Saiba mais &gt;</a></p>
+<p class="icone-divisao"></p>
+</div>
+</div>
+
+<div class="item project-box d2">
+<div class="item-data">
+<p class="p_data" style="text-align: center;"><a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/meio_ambiente/umapaz/planetario_do_carmo/programacao_mensal/index.php?p=321446"><img src="https://www.prefeitura.sp.gov.br/cidade/secretarias/upload/meio_ambiente/umapaz/vida fora-100(2).jpg" alt="" /></a></p>
+</div>
+<div class="item-txt">
+<p class="item-titulo" style="text-align: center;"><a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/meio_ambiente/umapaz/planetario_do_carmo/programacao_mensal/index.php?p=321446">LIVE: &Eacute; poss&iacute;vel ter vida em alguma lua do Sistema Solar? </a></p>
+<p class="item-paragrafo" style="text-align: center;"><strong>20/01 | 19h15</strong></p>
+<p class="item-paragrafo" style="text-align: center;">Sempre ficamos fascinados com a possibilidade de existir vida em algum lugar do Universo que n&atilde;o seja a Terra. Ser&aacute; que existem condi&ccedil;&otilde;es prop&iacute;cias...</p>
+<p class="item-paragrafo" style="text-align: center;"><a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/meio_ambiente/umapaz/planetario_do_carmo/programacao_mensal/index.php?p=321446">Saiba mais &gt;</a></p>
+<p class="icone-divisao"></p>
+</div>
+</div>
+
+<div class="item project-box d3">
+<div class="item-data">
+<p class="p_data" style="text-align: center;"><a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/meio_ambiente/umapaz/formacao_em_educacao_ambiental/programacao_mensal/index.php?p=322016"><img src="https://www.prefeitura.sp.gov.br/cidade/secretarias/upload/meio_ambiente/umapaz/jornada_interior.jpg" alt="" /></a></p>
+</div>
+<div class="item-txt">
+<p class="item-titulo" style="text-align: center;"><a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/meio_ambiente/umapaz/formacao_em_educacao_ambiental/programacao_mensal/index.php?p=322016">Viv&ecirc;ncia: Jornada Interior </a></p>
+<p class="item-paragrafo" style="text-align: center;"><strong>22/01 | 15h</strong></p>
+<p class="item-paragrafo" style="text-align: center;">A Viv&ecirc;ncia Jornada Interior visa contribuir com a Cultura de Paz, Cultura de Pertencimento e Educa&ccedil;&atilde;o Ambiental, e por meio dela ter&aacute; acesso a viv&ecirc;ncias...</p>
+<p class="item-paragrafo" style="text-align: center;"><a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/meio_ambiente/umapaz/formacao_em_educacao_ambiental/programacao_mensal/index.php?p=322016">Saiba mais &gt;</a></p>
+<p class="icone-divisao"></p>
+</div>
+</div>
+
+<div class="item project-box d4">
+<div class="item-data">
+<p class="p_data" style="text-align: center;"><a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/meio_ambiente/umapaz/escola_municipal_de_jardinagem/programacao_mensal/index.php?p=322074"><img src="https://www.prefeitura.sp.gov.br/cidade/secretarias/upload/meio_ambiente/umapaz/book2(2).png" alt="" /></a></p>
+</div>
+<div class="item-txt">
+<p class="item-titulo" style="text-align: center;"><a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/meio_ambiente/umapaz/escola_municipal_de_jardinagem/programacao_mensal/index.php?p=322074">Educa&ccedil;&atilde;o ambiental na gest&atilde;o ambiental de parques urbanos: Zonas Centro Oeste e Leste</a></p>
+<p class="item-paragrafo" style="text-align: center;"><strong>24/01 | 10h</strong></p>
+<p class="item-paragrafo" style="text-align: center;">Com a finalidade de aprimorar os processos e fortalecer o di&aacute;logo de experi&ecirc;ncias entre administradores de diferentes parques...</p>
+<p class="item-paragrafo" style="text-align: center;"><a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/meio_ambiente/umapaz/escola_municipal_de_jardinagem/programacao_mensal/index.php?p=322074">Saiba mais &gt;</a></p>
+<p class="icone-divisao"></p>
+</div>
+</div>
+
+<div class="item project-box d2">
+<div class="item-data">
+<p class="p_data" style="text-align: center;"><a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/meio_ambiente/umapaz/planetario_do_carmo/programacao_mensal/index.php?p=321456"><img src="https://www.prefeitura.sp.gov.br/cidade/secretarias/upload/meio_ambiente/umapaz/oficina-100(1).jpg" alt="" /></a></p>
+</div>
+<div class="item-txt">
+<p class="item-titulo" style="text-align: center;"><a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/meio_ambiente/umapaz/planetario_do_carmo/programacao_mensal/index.php?p=321456">OFICINA: VOYAGER </a></p>
+<p class="item-paragrafo" style="text-align: center;"><strong>25/01 | 15h</strong></p>
+<p class="item-paragrafo" style="text-align: center;">O que temos aqui na Terra de interessante para divulgar pelo Universo? Apresentamos, nesta oficina, o desenvolvimento da observa&ccedil;&atilde;o do espa&ccedil;o...</p>
+<p class="item-paragrafo" style="text-align: center;"><a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/meio_ambiente/umapaz/planetario_do_carmo/programacao_mensal/index.php?p=321456">Saiba mais &gt;</a></p>
+<p class="icone-divisao"></p>
+</div>
+</div>
+
+<div class="item project-box d4">
+<div class="item-data">
+<p class="p_data" style="text-align: center;"><a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/meio_ambiente/umapaz/formacao_em_educacao_ambiental/programacao_mensal/index.php?p=322082"><img src="https://www.prefeitura.sp.gov.br/cidade/secretarias/upload/meio_ambiente/umapaz/Ecopsicologia%20-100.jpg" alt="" /></a></p>
+</div>
+<div class="item-txt">
+<p class="item-titulo" style="text-align: center;"><a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/meio_ambiente/umapaz/formacao_em_educacao_ambiental/programacao_mensal/index.php?p=322082">Ecopsicologia </a></p>
+<p class="item-paragrafo" style="text-align: center;"><strong>25/01 | 14h</strong></p>
+<p class="item-paragrafo" style="text-align: center;">A Ecopsicologia desperta para as in&uacute;meras possibilidades de profundas conex&otilde;es com a Natureza atrav&eacute;s do acesso aberto para o inconsciente ecol&oacute;gico.</p>
+<p class="item-paragrafo" style="text-align: center;"><a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/meio_ambiente/umapaz/formacao_em_educacao_ambiental/programacao_mensal/index.php?p=322082">Saiba mais &gt;</a></p>
+<p class="icone-divisao"></p>
+</div>
+</div>
+
+<div class="item project-box d4">
+<div class="item-data">
+<p class="p_data" style="text-align: center;"><a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/meio_ambiente/umapaz/formacao_em_educacao_ambiental/programacao_mensal/index.php?p=322079"><img src="https://www.prefeitura.sp.gov.br/cidade/secretarias/upload/meio_ambiente/umapaz/watch-4638673_1280(1).jpg" alt="" /></a></p>
+</div>
+<div class="item-txt">
+<p class="item-titulo" style="text-align: center;"><a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/meio_ambiente/umapaz/escola_municipal_de_jardinagem/programacao_mensal/index.php?p=322079">Arquivo de Mem&oacute;rias dos Centros de Educa&ccedil;&atilde;o Ambiental (CEAs) dos Parques Previd&ecirc;ncia e do Carmo </a></p>
+<p class="item-paragrafo" style="text-align: center;"><strong>26/01 | 10h</strong></p>
+<p class="item-paragrafo" style="text-align: center;">O projeto &quot;Arquivo de Mem&oacute;rias: Centros de Educa&ccedil;&atilde;o Ambiental (CEAs) dos Parques Previd&ecirc;ncia e do Carmo&quot; faz parte...</p>
+<p class="item-paragrafo" style="text-align: center;"><a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/meio_ambiente/umapaz/escola_municipal_de_jardinagem/programacao_mensal/index.php?p=322079">Saiba mais &gt;</a></p>
+<p class="icone-divisao"></p>
+</div>
+</div>
+
+<div class="item project-box d4">
+<div class="item-data">
+<p class="p_data" style="text-align: center;"><a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/meio_ambiente/umapaz/escola_municipal_de_jardinagem/programacao_mensal/index.php?p=322077"><img src="https://www.prefeitura.sp.gov.br/cidade/secretarias/upload/meio_ambiente/umapaz/book2(1).png" alt="" /></a></p>
+</div>
+<div class="item-txt">
+<p class="item-titulo" style="text-align: center;"><a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/meio_ambiente/umapaz/escola_municipal_de_jardinagem/programacao_mensal/index.php?p=322077">Educa&ccedil;&atilde;o ambiental na gest&atilde;o ambiental de parques urbanos: Zonas Sul e Norte </a></p>
+<p class="item-paragrafo" style="text-align: center;"><strong>26/01 | 10h</strong></p>
+<p class="item-paragrafo" style="text-align: center;">Com a finalidade de aprimorar os processos e fortalecer o di&aacute;logo de experi&ecirc;ncias entre administradores de diferentes...</p>
+<p class="item-paragrafo" style="text-align: center;"><a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/meio_ambiente/umapaz/escola_municipal_de_jardinagem/programacao_mensal/index.php?p=322077">Saiba mais &gt;</a></p>
+<p class="icone-divisao"></p>
+</div>
+</div>
+
+<div class="item project-box d3">
+<div class="item-data">
+<p class="p_data" style="text-align: center;"><a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/meio_ambiente/umapaz/formacao_em_educacao_ambiental/programacao_mensal/index.php?p=322072"><img src="https://www.prefeitura.sp.gov.br/cidade/secretarias/upload/meio_ambiente/umapaz/aventura_em_familia.jpg" alt="" /></a></p>
+</div>
+<div class="item-txt">
+<p class="item-titulo" style="text-align: center;"><a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/meio_ambiente/umapaz/formacao_em_educacao_ambiental/programacao_mensal/index.php?p=322072">Aventura em Fam&iacute;lia </a></p>
+<p class="item-paragrafo" style="text-align: center;"><strong>26 e 28/01 | 10h</strong></p>
+<p class="item-paragrafo" style="text-align: center;">O Programa Aventura Ambiental nasceu junto com a UMAPAZ e tem promovido a&ccedil;&otilde;es de sensibiliza&ccedil;&atilde;o ambiental desde 2005.</p>
+<p class="item-paragrafo" style="text-align: center;"><a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/meio_ambiente/umapaz/formacao_em_educacao_ambiental/programacao_mensal/index.php?p=322072">Saiba mais &gt;</a></p>
+<p class="icone-divisao"></p>
+</div>
+</div>
+
+<div class="item project-box d1">
+<div class="item-data">
+<p class="p_data" style="text-align: center;"><a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/meio_ambiente/umapaz/escola_municipal_de_jardinagem/programacao_mensal/index.php?p=321992"><img src="https://www.prefeitura.sp.gov.br/cidade/secretarias/upload/meio_ambiente/umapaz/celebrando-a-urbe.jpg" alt="" /></a></p>
+</div>
+<div class="item-txt">
+<p class="item-titulo" style="text-align: center;"><a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/meio_ambiente/umapaz/escola_municipal_de_jardinagem/programacao_mensal/index.php?p=321992">CELEBRANDO A URBE... 2022! </a></p>
+<p class="item-paragrafo" style="text-align: center;"><strong>26 a 27/01 | 9h30</strong></p>
+<p class="item-paragrafo" style="text-align: center;">Nesta 3&ordf; Edi&ccedil;&atilde;o iremos celebrar os anivers&aacute;rios de S&atilde;o Paulo e da Universidade Aberta do Meio Ambiente e Cultura de Paz - UMAPAZ inspirados por Nelson Brissac Peixoto.</p>
+<p class="item-paragrafo" style="text-align: center;"><a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/meio_ambiente/umapaz/escola_municipal_de_jardinagem/programacao_mensal/index.php?p=321992">Saiba mais &gt;</a></p>
+<p class="icone-divisao"></p>
+</div>
+</div>
+
+<div class="item project-box d2">
+<div class="item-data">
+<p class="p_data" style="text-align: center;"><a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/meio_ambiente/umapaz/planetario_do_carmo/programacao_mensal/index.php?p=321458"><img src="https://www.prefeitura.sp.gov.br/cidade/secretarias/upload/meio_ambiente/umapaz/extremofilos-100(1).jpg" alt="" /></a></p>
+</div>
+<div class="item-txt">
+<p class="item-titulo" style="text-align: center;"><a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/meio_ambiente/umapaz/planetario_do_carmo/programacao_mensal/index.php?p=321458">LIVE: Extrem&oacute;filos: sobreviv&ecirc;ncia ao extremo!</a></p>
+<p class="item-paragrafo" style="text-align: center;"><strong>27/01 | 19h15</strong></p>
+<p class="item-paragrafo" style="text-align: center;">Extrem&oacute;filos s&atilde;o microorganismos que vivem em condi&ccedil;&otilde;es extremas: com pouco oxig&ecirc;nio, muito frio, muito quente, radia&ccedil;&atilde;o intensa...</p>
+<p class="item-paragrafo" style="text-align: center;"><a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/meio_ambiente/umapaz/planetario_do_carmo/programacao_mensal/index.php?p=321458">Saiba mais &gt;</a></p>
+<p class="icone-divisao"></p>
+</div>
+</div>
+
+<div class="item project-box d3">
+<div class="item-data">
+<p class="p_data" style="text-align: center;"><a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/meio_ambiente/umapaz/formacao_em_educacao_ambiental/programacao_mensal/index.php?p=322075"><img src="https://www.prefeitura.sp.gov.br/cidade/secretarias/upload/meio_ambiente/umapaz/vivencia_tigelas_de_cristal.jpg" alt="" /></a></p>
+</div>
+<div class="item-txt">
+<p class="item-titulo" style="text-align: center;"><a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/meio_ambiente/umapaz/formacao_em_educacao_ambiental/programacao_mensal/index.php?p=322075">Viv&ecirc;ncia | Concerto Meditativo com Tigelas de Cristal</a></p>
+<p class="item-paragrafo" style="text-align: center;"><strong>28/01 | 15h</strong></p>
+<p class="item-paragrafo" style="text-align: center;">Ao som das Tigelas de Cristal de Quartzo, com aten&ccedil;&atilde;o e recolhimento interior, nos propiciamos uma vis&atilde;o mais pura, mais leve de tudo que nos envolve.</p>
+<p class="item-paragrafo" style="text-align: center;"><a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/meio_ambiente/umapaz/formacao_em_educacao_ambiental/programacao_mensal/index.php?p=322075">Saiba mais &gt;</a></p>
+<p class="icone-divisao"></p>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+
+<div class="project-box-2 fevereiro"><hr />
+<h4 class="nome-mes" style="text-align: center;"><a name="fevereiro"></a>fevereiro</h4><a class="voltar-ao-topo" href="#topo">Voltar ao topo</a>
+<div class="duas-col">
+
+<div class="item project-box d1">
+<div class="item-data">
+<p class="p_data" style="text-align: center;"><a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/meio_ambiente/umapaz/escola_municipal_de_jardinagem/programacao_mensal/index.php?p=322614"><img src="https://www.prefeitura.sp.gov.br/cidade/secretarias/upload/meio_ambiente/umapaz/cartografia-100.jpg" alt="" /></a></p>
+</div>
+<div class="item-txt">
+<p class="item-titulo" style="text-align: center;"><a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/meio_ambiente/umapaz/escola_municipal_de_jardinagem/programacao_mensal/index.php?p=322614">Curso: Introdu&ccedil;&atilde;o aos Mapas e &agrave; Cartografia</a></p>
+<p class="item-paragrafo" style="text-align: center;"><span style="text-align: left;"><b>3, 10, 17, 24/02 e 10 e 17/03&nbsp;</b></span><strong>&nbsp;| 9h</strong></p>
+<p class="item-paragrafo" style="text-align: center;">Os mapas s&atilde;o uma inven&ccedil;&atilde;o da humanidade anterior &agrave; escrita e sua utiliza&ccedil;&atilde;o vem se desenvolvendo ao longo de milhares de anos at&eacute; hoje...</p>
+<p class="item-paragrafo" style="text-align: center;"><a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/meio_ambiente/umapaz/escola_municipal_de_jardinagem/programacao_mensal/index.php?p=322614">Saiba mais &gt;</a></p>
+<p class="icone-divisao"></p>
+</div>
+</div>
+<div>
+
+
+<div class="duas-col">
+<div>
+<div class="NAO">
+<div id="atv-per" style="text-align: center;">&nbsp;</div>
+</div>
+</div>
+<div>
+<div class="NAO"><hr />
+<div id="atv-per">
+<p style="text-align: center;"><a name="permanentes"></a></p>
+<h4 class="nome-mes" style="text-align: center;"><a name="atividades-permanentes"></a>Atividades permanentes</h4><a class="voltar-ao-topo" href="#topo">Voltar ao topo</a>
+</div>
+<div class="permanentes">
+<div class="per-item" id="item03">
+<a href="http://www.prefeitura.sp.gov.br/cidade/secretarias/meio_ambiente/umapaz/formacao_em_educacao_ambiental/programacao_mensal/index.php?p=260185">
+<div class="per-img"><img src="http://www.prefeitura.sp.gov.br/cidade/secretarias/upload/Grupo Experimental de Dialogo-01(3).jpg" alt="" /></div>
+</a>
+<a href="http://www.prefeitura.sp.gov.br/cidade/secretarias/meio_ambiente/umapaz/formacao_em_educacao_ambiental/programacao_mensal/index.php?p=260185">
+<h5>Grupo Experimental de Di&aacute;logo</h5>
+</a>
+<p style="text-align: center;"><strong>Quando:</strong> Segundas-feiras | 15h &agrave;s 17h<br />
+<strong>Onde: </strong>Plataforma online.<br />
+<strong>Pr&eacute;-requisito: </strong>ter cursado Oficina/Curso de Introdu&ccedil;&atilde;o ao Di&aacute;logo, Curso/Workshop de Di&aacute;logo, ou participado das aulas de Di&aacute;logo do Curso Introdu&ccedil;&atilde;o &agrave;s Metodologias Integrativas em Educa&ccedil;&atilde;o Ambiental (turma de 2019).<br />
+&nbsp;</p>
+</div>
+<div class="per-item" id="item04">
+<a href="http://www.prefeitura.sp.gov.br/cidade/secretarias/meio_ambiente/umapaz/formacao_em_educacao_ambiental/programacao_permanente/index.php?p=166859">
+<div class="per-img"><img alt="" src="http://www.prefeitura.sp.gov.br/cidade/secretarias/upload/danca-circulares(1).jpg" /></div>
+</a>
+
+<a href="http://www.prefeitura.sp.gov.br/cidade/secretarias/meio_ambiente/umapaz/formacao_em_educacao_ambiental/programacao_permanente/index.php?p=166859">
+<h5>Danças Circulares Sagradas</h5>
+</a>
+<p style="text-align: center;"><strong>Quando: </strong>Quartas-feiras | 10h &agrave;s 11h<br />
+<strong>Onde:</strong> <a href="https://us02web.zoom.us/j/88907792065?pwd=NFpaK2k4QUsrblU0MHRGMjV4K0lHQT09">https://us02web.zoom.us/j/88907792065?pwd=NFpaK2k4QUsrblU0MHRGMjV4K0lHQT09</a></p>
+<p style="text-align: center;">ID da reuni&atilde;o: 889 0779 2065<br />
+Senha de acesso: 766599</p>
+</div>
+<div class="per-item" id="item05">
+<a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/meio_ambiente/umapaz/formacao_em_educacao_ambiental/programacao_permanente/index.php?p=280013">
+<div class="per-img"><img src="https://www.prefeitura.sp.gov.br/cidade/secretarias/upload/2(44).jpg" alt="" /></div>
+</a>
+<a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/meio_ambiente/umapaz/formacao_em_educacao_ambiental/programacao_permanente/index.php?p=280013">
+<h5>Ateliê de Arte UMAPAZ</h5>
+</a>
+<p style="text-align: center;"><strong>Quando:&nbsp;</strong>Ter&ccedil;as-feiras | 14h &agrave;s 15h30<br />
+<strong>Onde:&nbsp;</strong>Todos os participantes receber&atilde;o o link via secretaria escolar<br />
+&nbsp;&nbsp;</p>
+</div>
+<div class="per-item" id="item05">
+<a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/meio_ambiente/umapaz/formacao_em_educacao_ambiental/programacao_permanente/index.php?p=316037">
+<div class="per-img"><img src="https://www.prefeitura.sp.gov.br/cidade/secretarias/upload/meio_ambiente/umapaz/escrita-criativa(1).jpg" alt="" /></div>
+</a>
+<a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/meio_ambiente/umapaz/formacao_em_educacao_ambiental/programacao_permanente/index.php?p=316037">
+<h5>Oficina: Escrita Criativa II</h5>
+</a>
+<p style="text-align: center;"><strong>Quando:&nbsp;</strong>&uacute;ltima quarta-feira do m&ecirc;s | 18h30 &agrave;s 19h30<br />
+<strong>Onde:&nbsp;</strong>Todos os participantes receber&atilde;o o link via secretaria escolar<br />
+&nbsp;&nbsp;</p>
+</div>
+<div class="per-item" id="item05">
+<a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/meio_ambiente/umapaz/index.php?p=318549">
+<div class="per-img"><img src="https://www.prefeitura.sp.gov.br/cidade/secretarias/upload/meio_ambiente/umapaz/atividadade-permanente-EAP(1).jpg" alt="" /></div>
+</a>
+<a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/meio_ambiente/umapaz/index.php?p=318549">
+<h5>Grupo de Estudos e Pr&aacute;ticas em Permacultura</h5>
+</a>
+<p style="text-align: center;"><strong>Quando:&nbsp;</strong>toda quarta-feira&nbsp; | 9h &agrave;s 12h<br />
+<strong>Onde:&nbsp;</strong>Escola de Agroecologia de Parelheiros<br />
+&nbsp;&nbsp;</p>
+</div>
+</div>
+</div>
+</div>
+<div id="tudo" style="text-align: center;">&nbsp;</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<hr />
+
+
+<h4 class="h4-div" style="text-align: center;">Saiba mais sobre as divis&otilde;es da UMAPAZ</h4>
+<div class="flex-row" id="flex-divisoes">
+<div id="divisao-img" style="text-align: center;"><a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/meio_ambiente/umapaz/escola_municipal_de_jardinagem/index.php?p=252813"><img alt="Escola de Jardinagem" src="https://www.prefeitura.sp.gov.br/cidade/secretarias/upload/divisao-centralizado-07(1).jpg" /></a>&nbsp;</div>
+<div id="divisao-img" style="text-align: center;"><a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/meio_ambiente/umapaz/escola_municipal_de_astronomia/index.php?p=283943"><img alt="Divis&atilde;o de astrofisica" src="https://www.prefeitura.sp.gov.br/cidade/secretarias/upload/divisao-centralizado-08(1).jpg" /></a>&nbsp;</div>
+<div id="divisao-img" style="text-align: center;"><a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/meio_ambiente/umapaz/formacao_em_educacao_ambiental/index.php?p=252807"><img alt="Forma&ccedil;&atilde;o em educa&ccedil;&atilde;o ambiental" src="https://www.prefeitura.sp.gov.br/cidade/secretarias/upload/divisao-centralizado-06(1).jpg" /></a>&nbsp;</div>
+<div id="divisao-img" style="text-align: center;"><a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/meio_ambiente/umapaz/umapaz_na_cidade/"><img alt="Difus&atilde;o e projetos" src="https://www.prefeitura.sp.gov.br/cidade/secretarias/upload/divisao-centralizado-05(1).jpg" /> 	            </a></div>
+<div id="divisao-img" style="text-align: center;"><a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/meio_ambiente/umapaz/formacao_em_educacao_ambiental/programacao_mensal/index.php?p=293679"><img alt="Divis&atilde;o de astrofisica" src="https://www.prefeitura.sp.gov.br/cidade/secretarias/upload/eap-100.jpg" /></a></div>
+</div>
+<hr />
+<h4 class="h4-div" style="text-align: center;">Confira nossas redes sociais</h4>
+<div class="redes-sociais">
+<div class="item-social" style="text-align: center;"><a href="https://www.facebook.com/umapazsvma/">  			<img alt="UMAPAZ svma" src="https://www.prefeitura.sp.gov.br/cidade/secretarias/upload/facebook(2)(1).png" width="45" height="45" /> 		</a></div>
+<div class="item-social" style="text-align: center;"><a href="https://www.instagram.com/umapaz/"><img alt="DEA/UMAPAZ" src="https://www.prefeitura.sp.gov.br/cidade/secretarias/upload/instagram(1)(1).png" width="45" height="45" /></a></div>
+<div class="item-social" style="text-align: center;"><a href="https://www.youtube.com/channel/UCTPsMmZ4wPbS9iEPIDWvuGQ">  			<img alt="UMAPAZ" src="https://www.prefeitura.sp.gov.br/cidade/secretarias/upload/youtube(3)(1).png" width="45" height="45" /> </a></div>
+<div class="item-social" style="text-align: center;"><a href="https://twitter.com/umapaz">  			<img alt="@SVMASP" src="https://www.prefeitura.sp.gov.br/cidade/secretarias/upload/twitter(2)(1).png" width="45" height="45" /></a></div>
+</div>
+<p style="text-align: center;"><style type="text/css">
+@import url('https://fonts.googleapis.com/css?family=Rubik:300,400,600');
+@import url('https://fonts.googleapis.com/css?family=Lato:300,400,600');
+
+#tudo{
+	max-width:850px;
+	text-align: center;
+}
+
+.redes-sociais{
+	max-width:850px;
+	text-align: center;
+  margin:  auto;
+}
+
+hr{
+    border: 1px;
+    border-style: solid;
+    border-color: #cdcdcd;
+}
+
+/* divisoes */
+#divisoes{
+    margin-top: 50px;
+}
+
+.flex-row{
+    display:flex;
+    flex-direction:row;
+    flex-wrap:nowrap;
+    justify-content:space-around;
+}
+
+#flex-divisoes{
+	justify-content: center;
+    text-align: center;
+}
+
+#divisao-img img{
+    max-width: 100%;
+}
+/* /divisoes */
+
+/* menu */
+#div-menu{
+	margin-top: 40px;
+}
+
+.menu {
+  font-family: sans-serif;
+}
+.menu ul {
+     width: 100%;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+#menu-mes{
+    width: 170px;
+}
+
+}
+@media (max-width: 40em) {
+  .menu ul li {
+    width: 100%;
+  }
+}
+.menu ul li > ul {
+  display: none;
+  flex-direction: column;
+}
+.menu ul li > ul li {
+  width: 100%;
+}
+.menu ul li:hover > ul {
+  display: flex;
+}
+.menu a, button {
+font-family: 'Rubik', sans-serif;
+    text-transform: uppercase;
+    display: block;
+    font-size: 15px;
+    line-height: 18px;
+    padding: 15px;
+    color: black;
+    text-decoration: none;
+    text-align: center;
+    background-color: #ddd;
+    border: solid;
+    border-width: 1px;
+    border-color: white;
+}
+.menu a:hover {
+  opacity:  0.75;
+}
+
+.menu .sub-menu li > a {
+  background: #ddd;
+  color: #555;
+}
+.menu .sub-menu > a:after {
+  content: "+";
+  padding-left: 5px;
+}
+
+#submenu-txt{
+   text-transform: none;
+}
+
+/* /menu */
+
+.h4-div {
+    font-family: 'Rubik', sans-serif;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 300;
+    margin-top: 25px;
+    margin-bottom: 15px;
+}
+
+/*******************************/
+
+.nome-mes{
+    font-family: 'Rubik', sans-serif;
+    font-size: 28px;
+    font-weight: 500;
+    margin-top: 50px;
+    margin-bottom: 0px;
+    text-transform: uppercase;
+    text-align: left;
+}
+
+.programacao-geral img{
+	max-width: 100%;
+}
+
+.programacao-geral{
+	max-width: 850px;
+  margin: auto;
+}
+
+.duas-col{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: flex-start;
+	align-items: flex-start;
+}
+
+.item{
+	display: flex;
+	flex-direction: column;
+	flex-wrap: nowrap;
+	flex: 0 0 47%;
+	margin: 0 auto;
+    margin-bottom: 15px;
+    margin-top: 15px;
+	background-color: #fff;
+	justify-content: flex-start;
+	height: auto;
+	text-align: left;
+	min-width: 285px;
+}
+.item-data{
+	background-color: white;
+	margin-bottom: -14px;
+}
+
+.p_data{
+	font-size: 14px;
+	color: #444444;
+	font-family: 'Lato', sans-serif;
+  margin:  none;
+}
+
+.item-titulo{
+	font-size: 16px;
+	font-family: 'Rubik', sans-serif;
+	font-weight: bold;
+}
+
+.item-paragrafo{
+	font-size: 14px;
+	font-family: 'Lato', sans-serif;
+}
+
+
+/*************PERMANENTES***********/
+
+.permanentes{
+    display: flex;
+    flex-direction: row;
+    flex-wrap:wrap;
+    justify-content:space-between;
+}
+
+.per-item{
+    display: flex;
+    flex-direction: column;
+    flex-wrap:nowrap;
+    width: 48%;
+    margin-top: 30px;
+    text-align: center;
+}
+
+#per-item1{
+    width: 100%;
+    margin-top: 0px;
+}
+
+#item01{
+    width: 100%;
+    max-width: 100%;
+    text-align: center;
+}
+
+.per-img{
+    max-width: 100%;
+    height: 80px;
+    margin-bottom:  45px;
+}
+
+.per-img img{
+    max-width: 100%;
+}
+
+.per-item p{
+	text-align: center;
+	font-family: 'Lato', sans-serif;
+}
+
+.per-item h5{
+	font-family: 'Rubik', sans-serif;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom:5px;
+    margin-top: 30px;
+}
+
+#per-dstq{
+    display: block;
+    max-width: 850px;
+
+}
+
+#per_dstq-mobile{
+    display: none;
+}
+
+@media (max-width: 680px) {
+
+	.flex-row{
+        flex-wrap: wrap;
+    }
+
+    .flex-row #flex-divisoes{
+        flex: 50%;
+        text-align: center;
+    }
+
+    #divisao-img{
+        margin-top: 15px;
+        flex: 50%;
+    }
+	.permanentes{
+        flex-direction: column;
+    }
+
+    #per-dstq{
+        display: none;
+    }
+
+    #per_dstq-mobile{
+        display: block;
+    }
+    
+    .per-item{
+        width: 100%;
+    }
+
+
+    .duas-col{
+    	flex-direction: column;
+    }
+
+    .item{
+    	flex: 0 0 10;
+    	min-width: 100px;
+    }
+}
+.redes-sociais{
+		display:flex;
+	    flex-direction:row;
+	    flex-wrap:nowrap;
+	    justify-content:center;
+	    margin-bottom: 25px;
+	    margin-top: 25px
+	}
+	
+	.item-social{
+		margin-left: 10px;
+		margin-right: 10px;
+	} 
+
+@media (max-width: 400px) {
+
+	#divisao-img {
+    flex: 100%;}
+
+    .flex-row #flex-divisoes{
+    	flex-direction: column;
+        text-align: center;
+    }
+}
+
+.item-txt {
+	background: #ededed;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Rubik:300,400,600');
+@import url('https://fonts.googleapis.com/css?family=Lato:300,400,600');
+
+#tudo{
+	max-width:850px;
+	text-align: center;
+}
+
+.redes-sociais{
+	max-width:850px;
+	text-align: center;
+}
+
+hr{
+    border: 1px;
+    border-style: solid;
+    border-color: #cdcdcd;
+}
+
+/* divisoes */
+#divisoes{
+    margin-top: 50px;
+}
+
+.flex-row{
+    display:flex;
+    flex-direction:row;
+    flex-wrap:nowrap;
+    justify-content:space-around;
+}
+
+#flex-divisoes{
+	justify-content: center;
+    text-align: center;
+}
+
+#divisao-img img{
+    max-width: 100%;
+}
+/* /divisoes */
+
+/* menu */
+#div-menu{
+	margin-top: 50px;
+}
+
+.menu {
+  font-family: sans-serif;
+}
+.menu ul {
+     width: 100%;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+#menu-mes{
+    width: 170px;
+}
+
+}
+@media (max-width: 40em) {
+  .menu ul li {
+    width: 100%;
+  }
+}
+.menu ul li > ul {
+  display: none;
+  flex-direction: column;
+}
+.menu ul li > ul li {
+  width: 100%;
+}
+.menu ul li:hover > ul {
+  display: flex;
+}
+.menu a {
+font-family: 'Rubik', sans-serif;
+    text-transform: uppercase;
+    display: block;
+    font-size: 15px;
+    line-height: 18px;
+    padding: 15px;
+    color: black;
+    text-decoration: none;
+    text-align: center;
+    background-color: #ddd;
+    border: solid;
+    border-width: 1px;
+    border-color: white;
+}
+
+.menu .sub-menu li > a {
+  background: #ddd;
+  color: #555;
+}
+.menu .sub-menu > a:after {
+  content: "+";
+  padding-left: 5px;
+}
+
+#submenu-txt{
+   text-transform: none;
+}
+
+/* /menu */
+
+.h4-div {
+    font-family: 'Rubik', sans-serif;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 300;
+    margin-top: 25px;
+    margin-bottom: 15px;
+}
+
+/*******************************/
+
+.nome-mes{
+    font-family: 'Rubik', sans-serif;
+    font-size: 28px;
+    font-weight: 500;
+    margin-top: 50px;
+    margin-bottom: 0px;
+    text-transform: uppercase;
+    text-align: left;
+}
+
+.programacao-geral img{
+	max-width: 100%;
+}
+
+.programacao-geral{
+	max-width: 850px;
+}
+
+.duas-col{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: flex-start;
+	align-items: flex-start;
+}
+
+.item{
+	display: flex;
+	flex-direction: column;
+	flex-wrap: nowrap;
+	flex: 0 0 47%;
+	margin: 0 auto;
+    margin-bottom: 15px;
+    margin-top: 15px;
+	background-color: #fff;
+	justify-content: flex-start;
+	height: auto;
+	text-align: left;
+	min-width: 285px;
+}
+.item-data{
+	background-color: white;
+}
+
+.p_data{
+	font-size: 14px;
+	color: #444444;
+	font-family: 'Lato', sans-serif;
+  margin-top:  inherit;
+}
+
+.item-txt{
+	padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 0px;
+    padding-top: 15px;
+	height: 265px;
+}
+
+.item-titulo{
+	font-size: 16px;
+	font-family: 'Rubik', sans-serif;
+	font-weight: bold;
+}
+
+.item-paragrafo{
+	font-size: 14px;
+	font-family: 'Lato', sans-serif;
+}
+
+.botao-2 {
+	font-family: 'Lato', sans-serif;
+	font-size: 15px;
+	text-decoration: none;
+	color: white;
+	font-weight: bold;
+	background-color: #4a5989;
+	padding: 15px;
+}
+
+.botao-2:hover {
+	text-decoration: none;
+	opacity: 0.8;
+	color: white;
+	font-weight: bold;
+	transition: 0.3s;
+}
+
+/*************PERMANENTES***********/
+
+.permanentes{
+    display: flex;
+    flex-direction: row;
+    flex-wrap:wrap;
+    justify-content:space-between;
+}
+
+.per-item{
+    display: flex;
+    flex-direction: column;
+    flex-wrap:nowrap;
+    width: 48%;
+    margin-top: 30px;
+    text-align: center;
+}
+
+#per-item1{
+    width: 100%;
+    margin-top: 0px;
+}
+
+#item01{
+    width: 100%;
+    max-width: 100%;
+    text-align: center;
+}
+
+.per-img{
+    max-width: 100%;
+    height: 80px;
+}
+
+.per-img img{
+    max-width: 100%;
+}
+
+.per-item p{
+	text-align: center;
+	font-family: 'Lato', sans-serif;
+}
+
+.per-item h5{
+	font-family: 'Rubik', sans-serif;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 5px;
+    margin-top: 30px;
+}
+
+#per-dstq{
+    display: block;
+    max-width: 850px;
+
+}
+
+#per_dstq-mobile{
+    display: none;
+}
+
+@media (max-width: 680px) {
+
+	.flex-row{
+        flex-wrap: wrap;
+    }
+
+    .flex-row #flex-divisoes{
+        flex: 50%;
+        text-align: center;
+    }
+
+    #divisao-img{
+        margin-top: 15px;
+        flex: 50%;
+    }
+	.permanentes{
+        flex-direction: column;
+    }
+
+    #per-dstq{
+        display: none;
+    }
+
+    #per_dstq-mobile{
+        display: block;
+    }
+    
+    .per-item{
+        width: 100%;
+    }
+
+
+    .duas-col{
+    	flex-direction: column;
+    }
+
+    .item{
+    	flex: 0 0 10;
+    	min-width: 100px;
+    }
+}
+.redes-sociais{
+		display:flex;
+	    flex-direction:row;
+	    flex-wrap:nowrap;
+	    justify-content:center;
+	    margin-bottom: 25px;
+	    margin-top: 25px
+	}
+	
+	.item-social{
+		margin-left: 10px;
+		margin-right: 10px;
+	} 
+
+@media (max-width: 400px) {
+
+	#divisao-img {
+    flex: 100%;}
+
+    .flex-row #flex-divisoes{
+    	flex-direction: column;
+        text-align: center;
+    }
+}
+
+.item {
+	box-shadow: 1px 1px 5px #929292;
+	transition: all .2s ease-in-out; 
+	background: #ededed;
+}
+
+.item:hover {
+	transform: scale(0.95); 
+}
+ 
+.per-item {
+box-shadow: 1px 1px 5px #929292;
+transition: all .2s ease-in-out; 
+}
+
+.per-item:hover {
+	transform: scale(0.95); 
+}
+
+.per-item img {
+	width: 100%;
+}
+
+#atv-per p {
+	max-width: 400px;
+	margin-left: auto;
+    	margin-right: auto;
+}
+
+/*FILTROS*/
+
+
+/*BOTOES DO FILTRO DAS DIVISOES*/
+
+a {
+  text-decoration:  none;
+}
+
+h5 {
+  color:  #4a6487;
+}
+
+.item.project-box .item-txt .item-titulo a {
+  color:  #4a6487;
+}
+
+button {
+  display:  inline-block;
+}
+
+button.main-btn#all-btn {
+  padding-top: 32px;
+    padding-bottom: 43px;
+}
+
+button.main-btn#all-btn.active {
+  background-color: #4A5B89;
+  color:  #fff;
+}
+
+button.main-btn#d1-btn {
+  padding: 47px 103px;
+  background-image: url("https://www.prefeitura.sp.gov.br/cidade/secretarias/upload/meio_ambiente/umapaz/emj.jpg");
+  background-repeat: no-repeat;
+}
+
+button.main-btn#all-btn:hover, button.main-btn#d1-btn:hover, button.main-btn#d2-btn:hover, button.main-btn#d3-btn:hover, button.main-btn#d4-btn:hover, button.main-btn#d5-btn:hover {
+  opacity:  0.75;
+}
+
+button.main-btn#d1-btn.active {
+  background-image: url("https://www.prefeitura.sp.gov.br/cidade/secretarias/upload/meio_ambiente/umapaz/Divisoes-55(1).jpg");
+}
+
+button.main-btn#d2-btn {
+  padding: 47px 88px;
+  background-image: url("https://www.prefeitura.sp.gov.br/cidade/secretarias/upload/meio_ambiente/umapaz/Divisoes53.jpg");
+  background-repeat: no-repeat;
+}
+
+button.main-btn#d2-btn.active {
+  background-image: url("https://www.prefeitura.sp.gov.br/cidade/secretarias/upload/meio_ambiente/umapaz/Divisoes-54(1).jpg");
+}
+
+button.main-btn#d3-btn {
+  padding: 47px 101px;
+  background-image: url("https://www.prefeitura.sp.gov.br/cidade/secretarias/upload/meio_ambiente/umapaz/Divisoes-54.jpg");
+  background-repeat: no-repeat;
+}
+
+button.main-btn#d3-btn.active {
+  background-image: url("https://www.prefeitura.sp.gov.br/cidade/secretarias/upload/meio_ambiente/umapaz/Divisoes-53.jpg");
+}
+
+button.main-btn#d4-btn {
+  padding: 47px 101px;
+  background-image: url("https://www.prefeitura.sp.gov.br/cidade/secretarias/upload/meio_ambiente/umapaz/Divisoes-55.jpg");
+  background-repeat: no-repeat;
+}
+
+button.main-btn#d4-btn.active {
+  background-image: url("https://www.prefeitura.sp.gov.br/cidade/secretarias/upload/meio_ambiente/umapaz/Divisoes-52(2).jpg");
+}
+
+button.main-btn#d5-btn {
+  padding: 47px 105px;
+  background-image: url("https://www.prefeitura.sp.gov.br/cidade/secretarias/upload/meio_ambiente/umapaz/Divisoes-56.jpg");
+  background-repeat: no-repeat;
+}
+
+button.main-btn#d5-btn.active {
+  background-image: url("https://www.prefeitura.sp.gov.br/cidade/secretarias/upload/meio_ambiente/umapaz/Divisoes-51.jpg");
+}
+
+  /*FIM DOS BOTOES DO FILTRO DAS DIVISOES*/
+
+  .filtro-divisoes {
+    text-align: center;
+  }
+
+  .filtros {
+    box-shadow: 1px 1px 5px #929292;
+    padding: 10px 0px 50px 0px;
+  }
+
+/*FIM FILTROS*/
+
+/*Botão "voltar ao topo"*/
+
+.voltar-ao-topo {
+  display: inherit;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Rubik', sans-serif;
+  font-size: 14px;
+}
+
+/*Fim Botão "voltar ao topo"*/
+
+/*Icone das divisões nos cards das atividades*/
+
+.item.project-box.d1 .icone-divisao {
+  padding: 17px;
+  background-image: url("https://www.prefeitura.sp.gov.br/cidade/secretarias/upload/meio_ambiente/umapaz/Ativo 10(1).png");
+  background-repeat: no-repeat;
+  text-align: center;
+  display: table;
+  margin:  auto;
+}
+
+.item.project-box.d2 .icone-divisao {
+  padding: 17px;
+  background-image: url("https://www.prefeitura.sp.gov.br/cidade/secretarias/upload/meio_ambiente/umapaz/Ativo 11(1).png");
+  background-repeat: no-repeat;
+  text-align: center;
+  display: table;
+  margin:  auto;
+}
+
+.item.project-box.d3 .icone-divisao {
+  padding: 17px;
+  background-image: url("https://www.prefeitura.sp.gov.br/cidade/secretarias/upload/meio_ambiente/umapaz/Ativo 9(1).png");
+  background-repeat: no-repeat;
+  text-align: center;
+  display: table;
+  margin:  auto;
+}
+
+.item.project-box.d4 .icone-divisao {
+  padding: 17px;
+  background-image: url("https://www.prefeitura.sp.gov.br/cidade/secretarias/upload/meio_ambiente/umapaz/Ativo 8(1).png");
+  background-repeat: no-repeat;
+  text-align: center;
+  display: table;
+  margin:  auto;
+}
+
+.item.project-box.d5 .icone-divisao {
+  padding: 17px;
+  background-image: url("https://www.prefeitura.sp.gov.br/cidade/secretarias/upload/meio_ambiente/umapaz/Ativo 7(1).png");
+  background-repeat: no-repeat;
+  text-align: center;
+  display: table;
+  margin:  auto;
+}
+
+</style></p>
+
+<!-- FILTRO DE DIVISÕES -->
+
+ <!-- Scripts (jQuery não pode ser o slim que vem do Boostrap) -->
+  <script
+  src="https://code.jquery.com/jquery-3.4.1.min.js"
+  integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+  crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+  <!-- Font Awesome -->
+
+<script>
+
+$('.filter-btn').on('click',function() {
+
+  let type = $(this).attr('id');
+  let boxes = $('.project-box');
+
+  $('.main-btn').removeClass('active');
+  $(this).addClass('active');
+
+  if(type == 'd1-btn') {
+    eachBoxes('d1', boxes)
+  } else if(type == 'd2-btn') {
+    eachBoxes('d2', boxes);
+  } else if(type == 'd3-btn') {
+    eachBoxes('d3', boxes);
+  } else if(type == 'd4-btn') {
+    eachBoxes('d4', boxes);
+  } else if(type == 'd5-btn') {
+    eachBoxes('d5', boxes);
+  } else {
+    eachBoxes('all', boxes);
+  } 
+});
+
+function eachBoxes(type, boxes) {
+
+  if(type == 'all') {
+    $(boxes).fadeIn();
+  } else {
+    $(boxes).each(function() {
+      if(!$(this).hasClass(type)) {
+        $(this).fadeOut('slow');
+      } else {
+        $(this).fadeIn();
+      }
+    });
+  }
+
+}
+
+
+</script>
+
+<script type="text/javascript">
+  
+  
+
+</script>
+
+<!-- FIM FILTRO DE DIVISÕES -->
